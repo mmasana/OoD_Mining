@@ -1,5 +1,5 @@
-# Metric Learning for Novelty and Anomaly Detection, BMVC 2018
-An [arXiv pre-print](https://arxiv.org/abs/1808.05492) is available. Code will be available soon.
+# Metric Learning for Novelty and Anomaly Detection
+This [paper](https://bmvc2018.org/contents/papers/0178.pdf) has been accepted at BMVC 2018. An [arXiv pre-print](https://arxiv.org/abs/1808.05492) is available. Code will be available soon.
 
 ## Citation
 ```
